@@ -24,6 +24,7 @@ The application is hosted live at:
     "price": 1200.00
   }
 
+  
 ##  Key Implementation Details
 - **Data Storage:** Implemented using a thread-safe `ConcurrentHashMap` for in-memory storage.
-- **Validation:** Added checks to ensure required fields (`name`, `price`) are present before saving.
+- **Validation:** Added checks to ensure required fields (`name`, `price`) are present before saving.     
